@@ -1,6 +1,8 @@
 WEBSITE DEMO Link : https://lnkd.in/ghsYs34J
 CREATED using: React.js , Css ,Bootstrap, etc.
 
+This versatile application allows users to Create,Edit , Add and Delete data effortlessly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
